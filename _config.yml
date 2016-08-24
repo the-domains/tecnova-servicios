@@ -1,4 +1,3 @@
-layout_spectrum: 0.4289738649968058
 typography_spectrum: 0.3965812309179455
 color:
   brandStrength: 0.3819989871699363
@@ -11,8 +10,10 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.4289738649968058
 name: Tecnova Servicios
 navigation:
   - name: Seguridad con WatchGuard
     id: 954c3981-6a8d-4a25-8e80-b8b4cd2737cf
     type: content
+title: Tecnova Servicios
